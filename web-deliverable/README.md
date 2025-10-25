@@ -8,9 +8,5 @@
 - Arij Aouina
 - Sara Tabane 
 - Safa Oueslati
-
-## Team Lead
-- Safa Oueslati
-
 ## Notes
 - This repository contains an empty React application created using 
